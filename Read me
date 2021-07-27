@@ -1,0 +1,4 @@
+# simple-linear-regression
+This minute project which includes how to apply simple linear regression on the small dataset with 2 variables x and y. 
+After exploring the data and eliminating null values, in order to fit the data to linear model, variables are resized. 
+Using the sklearn package linear regressor was imported. After predicting the y variable a scatterplot was plotted and the model accuracy was determined. 
